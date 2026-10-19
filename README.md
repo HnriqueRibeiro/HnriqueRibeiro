@@ -64,11 +64,11 @@
 
 ## Atualmente
 
-- 📚 Aprofundando meus conhecimentos em **Node.js, Express e desenvolvimento de APIs REST**.
-- 🧠 Estudando **arquitetura backend, autenticação, Docker e bancos de dados**.
-- 🐹 Evoluindo meus conhecimentos em **Go**.
-- ☁️ Aprendendo mais sobre **cloud e AWS**.
-- 🎯 Buscando evoluir como **Desenvolvedor Web Backend** e construir projetos cada vez mais completos.
+-  Aprofundando meus conhecimentos em **Node.js, Express e desenvolvimento de APIs REST**.
+-  Estudando **arquitetura backend, autenticação, Docker e bancos de dados**.
+-  Evoluindo meus conhecimentos em **Go**.
+-  Aprendendo mais sobre **cloud e AWS**.
+-  Buscando evoluir como **Desenvolvedor Web Backend** e construir projetos cada vez mais completos.
 
 ---
 
