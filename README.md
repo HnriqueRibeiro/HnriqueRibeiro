@@ -51,7 +51,7 @@
 
 ---
 
-## 💻 O que eu faço
+## O que eu faço
 
 - **Desenvolvimento Backend:** criação de aplicações e APIs utilizando Node.js, JavaScript, TypeScript e Go.
 - **APIs REST:** desenvolvimento de rotas, autenticação, validação de dados, regras de negócio e integração entre serviços.
@@ -62,7 +62,7 @@
 
 ---
 
-## 🚀 Atualmente
+## Atualmente
 
 - 📚 Aprofundando meus conhecimentos em **Node.js, Express e desenvolvimento de APIs REST**.
 - 🧠 Estudando **arquitetura backend, autenticação, Docker e bancos de dados**.
