@@ -79,12 +79,3 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HnriqueRibeiro&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=HnriqueRibeiro&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
-</div>
-
----
-
-<p align="center">
-  <strong>Obrigado por visitar meu perfil! 🚀</strong>
-</p>
